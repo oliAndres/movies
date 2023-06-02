@@ -1,5 +1,5 @@
 # movies
 ## integrantes:
 ## Andrés Olivera
-## Melitza Gaunas
+## Melitza Gaunas: Edad 35, Ciudad: Avellaneda
 ## Nehemias Lezcano
