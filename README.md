@@ -2,4 +2,4 @@
 ## integrantes:
 ## Andrés Olivera
 ## Melitza Gaunas
-## Nehemias Lezcano
+## Nehemias Lezcano: edad:21 ciudad:merlo
