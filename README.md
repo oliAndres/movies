@@ -1,5 +1,5 @@
 # movies
 ## integrantes:
-## Andrés Olivera | 36 | Moreno |
+## Andrés Olivera | edad: 36 | cidudad: Moreno |
 ## Melitza Gaunas
 ## Nehemias Lezcano
